@@ -1,29 +1,25 @@
 {
   "login": [
     {
-      "username": "Bello",
-      "id": "bello",
+      "id": "Bello",
       "password": "sage",
       "role": "guest",
       "full_name": "Kgaugelo Ramaramel;a"
     },
     {
-      "username": "Bello2",
-      "id": 2,
+      "id": "Bello2",
       "password": "sage2",
       "role": "guest",
       "full_name": "Kgaugelo Ramaramela2"
     },
     {
-      "username": "Bello3",
-      "id": 3,
+      "id": "Bello3",
       "password": "sage3",
       "role": "guest",
       "full_name": "Kgaugelo Ramaramel;a3"
     },
     {
-      "username": "Bello4",
-      "id": 4,
+      "id": "Bello4",
       "password": "sage4",
       "role": "guest4",
       "full_name": "Kgaugelo Ramaramel;a2"
