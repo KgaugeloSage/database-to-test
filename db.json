@@ -2,8 +2,8 @@
   "login": [
     {
       "username": "Bello",
-      "password": "sage"
-      "role": "guest"
+      "password": "sage",
+      "role": "guest",
       "full_name": "Kgaugelo Ramaramel;a"
     }
   ],
