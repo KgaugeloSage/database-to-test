@@ -5,9 +5,24 @@
       "password": "sage",
       "role": "guest",
       "full_name": "Kgaugelo Ramaramel;a"
+    },
+    {
+      "username": "Bello2",
+      "password": "sage2",
+      "role": "guest",
+      "full_name": "Kgaugelo Ramaramela2"
+    },
+    {
+      "username": "Bello3",
+      "password": "sage3",
+      "role": "guest",
+      "full_name": "Kgaugelo Ramaramel;a3"
+    },
+    {
+      "username": "Bello4",
+      "password": "sage4",
+      "role": "guest4",
+      "full_name": "Kgaugelo Ramaramel;a2"
     }
-  ],
-  "profile": {
-    "name": "typicodewdsfwsedfgs"
-  }
+  ]
 }
