@@ -1,8 +1,10 @@
 {
   "login": [
     {
-      "id": 1,
-      "title": "hello"
+      "username": "Bello",
+      "password": "sage"
+      "role": "guest"
+      "full_name": "Kgaugelo Ramaramel;a"
     }
   ],
   "profile": {
