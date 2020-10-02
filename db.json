@@ -3,29 +3,29 @@
     {
       "id": "Bello",
       "password": "sage",
-      "full_name": "Kgaugelo Ramaramel;a"
-      "room_type": "Standard"
+      "full_name": "Kgaugelo Ramaramel;a",
+      "room_type": "Standard",
       "price": "R500"
     },
     {
       "id": "Bello2",
       "password": "sage2",
-      "full_name": "Kgaugelo Ramaramela2"
-      "room_type": "Single"
+      "full_name": "Kgaugelo Ramaramela2",
+      "room_type": "Single",
       "price": "R1000"
     },
     {
       "id": "Bello3",
       "password": "sage3",
-      "full_name": "Kgaugelo Ramaramel;a3"
-      "room_type": "Single"
+      "full_name": "Kgaugelo Ramaramel;a3",
+      "room_type": "Single",
       "price": "R1000"
     },
     {
       "id": "Bello4",
       "password": "sage4",
-      "full_name": "Kgaugelo Ramaramel;a2"
-      "room_type": "Grand Suite"
+      "full_name": "Kgaugelo Ramaramel;a2",
+      "room_type": "Grand Suite",
       "price": "R2500"
     }
   ]
